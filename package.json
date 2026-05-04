@@ -1,0 +1,6 @@
+{
+  "name": "agent-elna-bot-de-analisis-de-sentimiento-morizxrn",
+  "version": "1.0.0",
+  "description": "Proyecto de Elna [Gen9]: bot de analisis de sentimiento de noticias financieras",
+  "main": "index.js"
+}
